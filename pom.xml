@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.jide</groupId>
-    <artifactId>ppmtool</artifactId>
+    <artifactId>ppmtoool</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>ppmtool</name>
     <description>A Personal Project Management Tool</description>
